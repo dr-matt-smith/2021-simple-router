@@ -1,0 +1,8 @@
+build
+docs
+vendor
+.idea
+*.phar
+composer.lock
+© 2021 GitHub, Inc.
+Terms

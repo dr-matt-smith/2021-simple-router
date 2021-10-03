@@ -1,0 +1,17 @@
+{
+    "require": {
+        "mattsmithdev/pdo-crud-for-free-repositories": "^2",
+        "symfony/http-foundation": "^5.3",
+        "symfony/http-kernel": "^5.3",
+        "symfony/routing": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tudublin\\": "src"
+        }
+    },
+    "scripts": {
+        "serve": "php -S localhost:8000 -t public",
+        "test": "phpunit"
+    }
+}
