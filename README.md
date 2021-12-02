@@ -30,5 +30,5 @@ or even:
   }
 ```
   
-  where routes are declares as attributes, just like Symofny !
+  where routes are declared as attributes, just like Symfony !
   
